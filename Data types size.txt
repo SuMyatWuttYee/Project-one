@@ -1,0 +1,12 @@
+Byte   => 1byte  or 8bits  => default value 0
+short  => 2bytes or 16bits => default value 0
+int    => 4bytes or 32bits => default value 0
+long   => 8bytes or 64bits => default value 0
+
+float  => 4bytes or 32bits => default value 0.0
+double => 8bytes or 64bits => default value 0
+
+boolean=> 1byte			 => default value false
+char	   => 2bytes or 16bits => default value '\u0000'
+
+byte range = -127 to 127

@@ -1,0 +1,22 @@
+   1.decision making statement
+
+        -if      -- only true, it works
+        & if else & if  eles if  else
+
+        -switch case
+            switch(){ case 1: sout(); break;}
+            (break ma lote yin mhn p dout shout pyit twr)
+
+   2.loop statement
+        -while / do while  -- only true, it works, condition mhn mha stop
+            while(condition){}
+            do while --> do{sout}while();
+
+        -for loop
+            for (condition 3khu){}
+            condition 1 => initialize statement
+                      2    condition statement
+                      3    count ++ -- ;
+
+        //jump statement
+

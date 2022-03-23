@@ -1,0 +1,40 @@
+Array
+
+1. One dimensional array
+2. Two or multidimensional array
+3. jagged array
+
+1.One dimensional array
+        int numbers[]={..};
+        String names[]= new String[]{...};
+
+        //array akhn thet mat
+        String sth[]=new String[3];
+        sth[0]="..";
+        sth[1]="..";
+        sth[3]="..";
+
+
+Count
+    sout(names.length);
+
+Correction
+    numbers[]={..};
+    sout(numbers[]);
+
+for
+    for (int i=1; i<names.length;i++){
+        sout(names[i]);
+    }
+    }
+
+2.Two Dimensional Array (columns & rows twy pr lr)
+     int numbers[][]= new int [5][]; (no 1 khu tot htae py ya)
+                              [row][column]
+
+     int dNumbers[][]={
+            {..},
+            {..},
+            {..}
+     };
+     sout(dNumbers[][]);
